@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Cabecalho{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+.nav{
+    border: 3px solid black;
+    padding: 8px 16px;
+    border-radius: 9px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+
+}
+.nav:hover{
+    background-color:  rgba(250, 4, 4, 0.89);
+
+}
+
+main div{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.navegacao{
+    margin-top:0px ;
+}
+.containers{
+    display: flex;
+    margin-top: 90px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+.cont{
+    width: 1366px;
+    margin: 0 auto;
+}
+.containers article img{
+    height: 180px;
+    border-radius: 13px;
+}
+.containers article{
+    width: 30%;
+}
+h2{
+    color: rgb(255, 253, 253);
+    background-color: black;
+    padding:10px;
+    text-align: center;
+    border-radius: 12px;
+}
+.link{
+    text-decoration: none;
+    border: 2px solid;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+}
+.link:hover{
+    background-color: rgba(250, 4, 4, 0.89);
+}
