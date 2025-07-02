@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu portal de notícias</title>
+    <link rel="stylesheet" href="main.css" />
+</head>
+<body>
+    <header class="Cabecalho">
+        <h1>Meu portal de notícias</h1>
+    </header>
+
+<main class="navegacao">
+        <div>
+            <a href="#sports" title="Ir para a seção de esportes" class="nav">Esportes</a>
+            <a href="#economy" title="Ir para a seção de notícias" class="nav">Economia</a>
+        </div>
+<section>
+        <div class="cont">
+        <h2>Esportes</h2>
+        <div class="containers">
+        <article>
+            <img src="./futebol.jpg" alt="Bola de futebol no gramado" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Grande clássico na noite de hoje</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        <article>
+            <img src="./futebol-americano.jpg" alt="Jogador de futebol americano correndo com a bola na mão" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Noite do Superbowl</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        <article>
+            <img src="./basquete.jpg" title="Vista aérea de uma quadra de basquete" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Notícia sobre a NBA</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa"class="link">Ler mais</a>
+        </article>
+        </article>
+        </div>
+        </div>
+    </section>
+    <section>
+        <div class="cont">
+        <h2>Economia</h2>
+        <div class="containers">
+        <article>
+            <img src="./dolares.jpg" alt="Muitos dólares" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Dólar em alta de 0.50%</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        <article>
+            <img src="./euro.jpg" alt="Várias notas de euro" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Euro em queda de 0.40%</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        <article>
+            <img src="./petroleo.jpg" alt="Extração de petróleo" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Alta no preço do barril do petróleo</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        </div>
+        </div>
+    </section>
+    <section>
+        <div class="cont">
+        <h2>Entretenimento</h2>
+        <div class="containers">
+        <article>
+            <img src="./AA1HIwOd.jpg" alt="Velozes e furiosos capa filme" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Boas notícias para os fãs de Velozes & Furiosos: Vin Diesel confirma data de lançamento do novo filme e retorno de Paul Walker</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        <article>
+            <img src="./22272740.webp" alt="Horoscopo do dia" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Horóscopo: confira a previsão de hoje para cada signo</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        <article>
+            <img src="./e91e4965228222bfb96c03f1a7b5455a.avif" title="Icone do rock Raul Seixas" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>O que causou a morte precoce de Raul Seixas, ícone do rock nacional</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        </article>
+        </div>
+        </div>
+    </section>
+    <section>
+        <div class="cont">
+        <h2>Tecnologia</h2>
+        <div class="containers">
+            <article>
+            <img src="./robo.avif" alt="Robos jogando bola" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Robôs humanoides jogam campeonato de futebol de forma desajeitada em Pequim; confira vídeo</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        <article>
+            <img src="./OIP.webp" alt="atualização ios 16" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>iOS 26 terá mais duas funções interessantes que a Apple decidiu guardar segredo</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        <article>
+            <img src="./moto-g96-launch-date-india-1751277192.png" alt="Moto g96 lançamento" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Motorola se prepara para lançar o inédito Moto G96; saiba quando</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa" class="link">Ler mais</a>
+        </article>
+        </div>
+        </div>
+</section>
+</main>
+</body>
+</html>
